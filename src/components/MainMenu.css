@@ -1,0 +1,21 @@
+.main-menu-container {
+    background-color: rgb(218, 218, 218);
+    color: black;
+    border-radius: 20px;
+    padding: 50px;
+    width: 380px;
+}
+
+.number-of-questions {
+    width: 250px;
+}
+
+.number-of-questions, .quiz-select {
+    display: block;
+    font-size: 16px;
+    padding: 12px 24px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    margin-top: 25px;
+}

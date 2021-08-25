@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-body {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.quiz-button {
+  background-color: #51dafb;
+  padding: 20px;
+  border-radius: 20px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 20px 0;
+}
+
+.quiz-button:active {
+  background-color: #2ad2ff;
+}
